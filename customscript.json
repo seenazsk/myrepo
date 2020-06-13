@@ -1,0 +1,4 @@
+{
+  "fileUris": ["https://raw.githubusercontent.com/seenazsk/myrepo/master/install_web.sh1"],
+  "commandToExecute": "./install_web.sh1"
+}
